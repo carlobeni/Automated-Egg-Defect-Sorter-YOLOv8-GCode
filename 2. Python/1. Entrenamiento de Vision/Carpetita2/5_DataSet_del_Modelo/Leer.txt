@@ -1,0 +1,2 @@
+INFORMACION DEL DATASET:
+Formato de Etiquetado: Formato Roboflow
