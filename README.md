@@ -1,7 +1,7 @@
 # 🤖 Automated Egg Defect Removal Robot
 
 **Final Project – Robotics I, FIUNA – Mechatronics Engineering, 2025-1**  
-**Authors: José Hellion, Matteo Martínez, Carlos Benítez, Lucas Pin**
+**Authors: Lucas Pin, José Hellion, Matteo Martínez, Carlos Benítez**
 
 This project presents a fully automated robotic system capable of detecting and removing defective eggs from a moving conveyor belt using computer vision and mechatronic control. The vision system is based on **YOLOv8**, a high-performance object detection model trained to identify damaged or abnormal eggs. Once detected, the defective eggs are precisely removed from the conveyor using a robotic actuator controlled via **GCODE 0.9** instructions.
 
